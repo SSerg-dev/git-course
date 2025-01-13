@@ -1,7 +1,7 @@
-const cowsay = require("cowsay");
+import { say } from "cowsay";
 
 console.log(
-  cowsay.say({
+  say({
     text: "Hello, world!",
     e: "oO", // Eyes
     T: "U ", // Tongue
