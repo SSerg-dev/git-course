@@ -2,7 +2,7 @@ import { say } from "cowsay";
 
 console.log(
   say({
-    text: "Hello, world!",
+    text: "Hello, Vzjet!",
     e: "oO", // Eyes
     T: "U ", // Tongue
   })
