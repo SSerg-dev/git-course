@@ -2,7 +2,7 @@ import { say } from "cowsay";
 
 console.log(
   say({
-    text: "Commit namingc!",
+    text: "new name",
     e: "oO", // Eyes
     T: "U ", // Tongue
   })
