@@ -2,8 +2,9 @@ import { say } from "cowsay";
 
 console.log(
   say({
-    text: "Hello, Vzjet!",
+    text: "Commit namingc!",
     e: "oO", // Eyes
     T: "U ", // Tongue
   })
 )
+
