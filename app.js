@@ -10,7 +10,7 @@ console.log(
 
 console.log('1. git stash title ---------', )
 
-console.log('1. git stash  sub title ----', )
+console.log('1. git stash  sub title ---- add', )
 
 console.log('3. git stash body ----------', )
 
