@@ -23,6 +23,7 @@ const items = [
   { id: 6, name: "Child 2.1", parentId: 5 }
 ];
 
+/*
 // Recursive function to build the tree
 function buildTree(data, parentId = null) {
   return data
@@ -37,5 +38,5 @@ function buildTree(data, parentId = null) {
 const tree = buildTree(items);
 
 console.log(JSON.stringify(tree, null, 2));
-
+*/
 
